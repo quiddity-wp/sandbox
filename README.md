@@ -5,7 +5,7 @@ Thanks for enjoying bits of the world with me!
 * Twitch: [https://www.twitch.tv/soler91](https://www.twitch.tv/soler91)
 * Ko-fi: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
 * Streamlabs tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
-* Discord: Usually "@fruit"
+* Discord: usually "@fruit"
 
 I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which is… a complicated location. Your support helps keep me going!
 
@@ -29,6 +29,7 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
     2. unzip that in your `Noita\mods` folder
     3. enable the mod.
   2. or Share it as a Link.
+* ...
   
 # Collaborations and Commissions
 I've also worked on these things, sometimes with other nice people:
