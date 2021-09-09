@@ -33,7 +33,7 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
   
 # Collaborations and Commissions
 I've also worked on these things, sometimes with other nice people:
-* The code for DunkOrSlam's **Dunkbot** and ???
+* The code for DunkOrSlam's **Dunkbot** chatbot
 * Some edits at the [Noita Wiki](https://noita.fandom.com/wiki/Noita_Wiki)
 * ...
 * ... 
