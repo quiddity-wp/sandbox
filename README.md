@@ -23,12 +23,13 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
 * [Wand Builder](https://soler91.github.io/noita-loadouts/#/wand-builder) - aka. "Starter Wand mod"
   * Drag-and-drop spells, adjust the wand's specs.
   * Once complete, click "Save".
-  * Lastly, click "Presets" at the top, and:
-  1. Use it in your runs (start all new runs with it as a 3rd wand):
-    1. "Download" a .zip of the wand
-    2. unzip that in your `Noita\mods` folder
-    3. enable the mod.
-  2. or Share it as a Link.
+  * Lastly, click "Presets" at the top,
+  * to:
+  * 1. **Use it in your runs.** (I.e. Start all new runs with a 3rd custom wand):
+  * * 1. "Download" a .zip of the wand
+  * * 2. unzip that in your `Noita\mods` folder
+  * * 3. enable the mod in Noita.
+  * 2. or **Share it as a Link.**
 * ...
   
 # Collaborations and Commissions
