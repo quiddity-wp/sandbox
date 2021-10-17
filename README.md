@@ -26,9 +26,9 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
   * Lastly, click "Presets" at the top,
   * to:
   * 1. **Use it in your runs.** (I.e. Start all new runs with a 3rd custom wand):
-  * * 1. "Download" a .zip of the wand
-  * * 2. unzip that in your `Noita\mods` folder
-  * * 3. enable the mod in Noita.
+        * 1. "Download" a .zip of the wand
+        * 2. unzip that in your `Noita\mods` folder
+        * 3. enable the mod in Noita.
   * 2. or **Share it as a Link.**
 * ...
   
