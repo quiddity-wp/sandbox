@@ -1,10 +1,10 @@
-Thanks for enjoying bits of the world with me!
+"It's a P R O T O T Y P E"
 
 # See & Support me
 
 * Twitch: [https://www.twitch.tv/soler91](https://www.twitch.tv/soler91)
-* Ko-fi: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
-* Streamlabs tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
+* Ko-fi tip-jar: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
+* StreamElements tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
 * Discord: usually "@fruit"
 
 I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which is… a complicated location. Your support helps keep me going!
@@ -13,11 +13,15 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
 * Github:
   * [Noita Together](https://github.com/soler91/noita-together#readme) - "Play alone together" - the semi-multiplayer creation
   * [Twitch Integration](https://github.com/soler91/Noita-Twitch-Integration#readme) - the original version, developed since before the official version
-  * [Streamer Wands](https://github.com/soler91/streamer-wands#readme) - show your viewers what your wands and inventory contain. E.g. [https://onlywands.com/streamer/soler91](https://onlywands.com/streamer/soler91) (my wands now / at last death)
+  * [Streamer Wands](https://github.com/soler91/streamer-wands#readme) - Show your viewers what your wands and inventory contain. E.g. [https://onlywands.com/streamer/soler91](https://onlywands.com/streamer/soler91) (my wands now / at last death)
 * Steam Workshop:
-  * [Fast Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2526809371) - slightly better FPS / performance
-  * [Noita Together Player bank](https://steamcommunity.com/sharedfiles/filedetails/?id=2468614985) - standalone version, just 1 feature from the main mod
+  * [Fast Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2526809371) - Slightly better FPS / performance
+  * [Noita Together Player bank](https://steamcommunity.com/sharedfiles/filedetails/?id=2468614985) - Standalone version, just 1 feature from the main mod
   * [No lame fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2210274684) - fug the fog
+* Discord: in the channel "Garboige"
+  * Nemesis - Semi-multiplayer challenge mod. Killing enemies will send them to other players to fight!
+  * Enemy Randomizer - Enemies randomly change into other enemies. Configurable timing.
+  * Matryoshka - Enemies split into smaller and smaller enemies!
 
 # Use my Noita Websites
 * [Wand Builder](https://soler91.github.io/noita-loadouts/#/wand-builder) - aka. "Starter Wand mod"
