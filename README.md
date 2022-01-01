@@ -6,7 +6,7 @@
 * Streamlabs tip-jar: [https://streamlabs.com/soler91/tip](https://streamlabs.com/soler91/tip)
 * Ko-fi tip-jar: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
 * StreamElements tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
-* Discord: usually "@fruit"
+* My Discord: [https://discord.gg/aVA6PRkzxP](https://discord.gg/aVA6PRkzxP)
 
 I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which is… a complicated location. Your support helps keep me going!
 
