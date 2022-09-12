@@ -2,12 +2,12 @@
 
 # See & Support me
 
-* Twitch: [https://www.twitch.tv/soler91](https://www.twitch.tv/soler91)
+* Twitch: [https://www.twitch.tv/soler](https://www.twitch.tv/soler)
 * Discord: [https://discord.gg/aVA6PRkzxP](https://discord.gg/aVA6PRkzxP)
 * Merch: [http://shop.traesh.co](http://shop.traesh.co)
 * Streamlabs tip-jar: [https://streamlabs.com/soler91/tip](https://streamlabs.com/soler91/tip)
 * Ko-fi tip-jar: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
-* StreamElements tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
+* StreamElements tip-jar: [https://streamelements.com/soler/tip](https://streamelements.com/soler/tip)
 
 I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which is… a complicated location. Your support helps keep me going!
 
