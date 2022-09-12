@@ -3,16 +3,18 @@
 # See & Support me
 
 * Twitch: [https://www.twitch.tv/soler91](https://www.twitch.tv/soler91)
+* Discord: [https://discord.gg/aVA6PRkzxP](https://discord.gg/aVA6PRkzxP)
+* Merch: [http://shop.traesh.co](http://shop.traesh.co)
 * Streamlabs tip-jar: [https://streamlabs.com/soler91/tip](https://streamlabs.com/soler91/tip)
 * Ko-fi tip-jar: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
 * StreamElements tip-jar: [https://streamelements.com/soler91/tip](https://streamelements.com/soler91/tip)
-* My Discord: [https://discord.gg/aVA6PRkzxP](https://discord.gg/aVA6PRkzxP)
 
 I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which is… a complicated location. Your support helps keep me going!
 
 # Get my Noita Mods
 * Github:
   * [Noita Together](https://github.com/soler91/noita-together#readme) - "Play alone together" - the semi-multiplayer creation
+    * [Discord for Noita Together](https://discord.gg/ex3XFkXCgM)
   * [Twitch Integration](https://github.com/soler91/Noita-Twitch-Integration#readme) - the original version, developed since before the official version
   * [Streamer Wands](https://github.com/soler91/streamer-wands#readme) - Show your viewers what your wands and inventory contain. E.g. [https://onlywands.com/streamer/soler91](https://onlywands.com/streamer/soler91) (my wands now / at last death)
 * Steam Workshop:
