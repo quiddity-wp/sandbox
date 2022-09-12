@@ -21,6 +21,7 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
   * [Fast Fire](https://steamcommunity.com/sharedfiles/filedetails/?id=2526809371) - Slightly better FPS / performance
   * [Noita Together Player bank](https://steamcommunity.com/sharedfiles/filedetails/?id=2468614985) - Standalone version, just 1 feature from the main mod
   * [No lame fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2210274684) - fug the fog
+  * [Spell Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2783627811) - lazily randomizes spell rarities and spawn levels... (NOTE: it mostly doesnt affect the first level since most wands are premade)
 * Discord: in the channel "Garboige"
   * Nemesis - Semi-multiplayer challenge mod. Killing enemies will send them to other players to fight!
   * Enemy Randomizer - Enemies randomly change into other enemies. Configurable timing.
@@ -42,7 +43,6 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
 # Collaborations and Commissions
 I've also worked on these things, sometimes with other nice people:
 * The code for DunkOrSlam's **Dunkbot** chatbot
-* Some edits at the [Noita Wiki](https://noita.fandom.com/wiki/Noita_Wiki)
 * ...
 * ... 
 
