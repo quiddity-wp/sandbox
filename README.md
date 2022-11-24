@@ -22,6 +22,7 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
   * [Noita Together Player bank](https://steamcommunity.com/sharedfiles/filedetails/?id=2468614985) - Standalone version, just 1 feature from the main mod
   * [No lame fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2210274684) - fug the fog
   * [Spell Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2783627811) - lazily randomizes spell rarities and spawn levels... (NOTE: it mostly doesnt affect the first level since most wands are premade)
+  * [Double Trouble](https://steamcommunity.com/sharedfiles/filedetails/?id=2892552600) - Get hit, duplicates nearby enemies
 * Discord: in the channel "Garboige"
   * Nemesis - Semi-multiplayer challenge mod. Killing enemies will send them to other players to fight!
   * Enemy Randomizer - Enemies randomly change into other enemies. Configurable timing.
