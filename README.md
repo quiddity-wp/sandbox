@@ -14,8 +14,8 @@ I'm in Venezuela ([wikipedia](https://en.wikipedia.org/wiki/Venezuela)), which i
 # Get my Noita Mods
 * Github:
   * [Noita Together](https://github.com/soler91/noita-together#readme) - "Play alone together" - the semi-multiplayer creation
-    * [Discord for Noita Together](https://discord.gg/ex3XFkXCgM)
     * Noita Nemesis - PvP mode, built-in to Noita Together
+    * [Discord for Noita Together](https://discord.gg/ex3XFkXCgM)
   * [Twitch Integration](https://github.com/soler91/Noita-Twitch-Integration#readme) - the original version, developed since before the official version
   * [Streamer Wands](https://github.com/soler91/streamer-wands#readme) - Show your viewers what your wands and inventory contain. E.g. [https://onlywands.com/streamer/soler](https://onlywands.com/streamer/soler) (my wands now / at last death)
 * Steam Workshop:
