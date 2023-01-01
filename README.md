@@ -4,6 +4,8 @@
 
 * Twitch: [https://www.twitch.tv/soler](https://www.twitch.tv/soler)
 * Discord: [https://discord.gg/aVA6PRkzxP](https://discord.gg/aVA6PRkzxP)
+* YouTube: [https://www.youtube.com/@Soler91](https://www.youtube.com/@Soler91)
+  * YouTube VODs: [https://www.youtube.com/@solervods](https://www.youtube.com/@solervods)
 * Merch: [http://shop.traesh.co](http://shop.traesh.co)
 * Streamlabs tip-jar: [https://streamlabs.com/soler91/tip](https://streamlabs.com/soler91/tip)
 * Ko-fi tip-jar: [https://ko-fi.com/Soler91](https://ko-fi.com/Soler91)
